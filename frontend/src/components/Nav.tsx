@@ -11,6 +11,7 @@ const LINKS = [
   { to: '/anchoring', label: 'Anchoring' },
   { to: '/verify-receipt', label: 'Verify Receipt' },
   { to: '/about', label: 'About' },
+  { to: '/analytics', label: 'Analytics' },
 ];
 
 function truncateAddr(addr: string): string {
